@@ -1,0 +1,16 @@
+[
+  {"question":"Mirror sign convention: when is p positive?","answer":"Real object in front of mirror (p > 0)."} ,
+  {"question":"Mirror sign convention: when is q positive?","answer":"Real image in front of mirror (q > 0). Virtual image behind (q < 0)."} ,
+  {"question":"Mirror sign convention: concave mirror f and R?","answer":"Both positive (center of curvature in front)."} ,
+  {"question":"Mirror sign convention: convex mirror f and R?","answer":"Both negative (center of curvature behind)."} ,
+  {"question":"Mirror magnification: when is image inverted?","answer":"m < 0 (negative); upright when m > 0."} ,
+  {"question":"Lens sign convention: when is p positive?","answer":"Real object to the left (in front) of lens (p > 0)."} ,
+  {"question":"Lens sign convention: when is q positive?","answer":"Real image to the right (behind) lens (q > 0). Virtual image to left (q < 0)."} ,
+  {"question":"Lens sign convention: converging lens f?","answer":"Positive (f > 0)."} ,
+  {"question":"Lens sign convention: diverging lens f?","answer":"Negative (f < 0)."} ,
+  {"question":"Lens magnification: when is image inverted?","answer":"m < 0 (real images); upright when m > 0 (virtual)."} ,
+  {"question":"Thin film reflection: phase shift from rarer to denser medium?","answer":"180° phase change (extra λ/2 path)."} ,
+  {"question":"Thin film reflection: phase shift from denser to rarer medium?","answer":"No phase change."} ,
+  {"question":"Total internal reflection: condition?","answer":"θ1 > θc, where sin(θc) = n2/n1 (n1 > n2). No refraction, all reflected."} ,
+  {"question":"Image height h sign in mirrors: positive when?","answer":"Upright (h > 0); inverted h < 0."}
+]

@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flashcards</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Flashcards</h1>
+
+      <!-- Category buttons - EDIT HERE -->
+      <div class="category-buttons">
+        <button class="category-btn" data-category="one">PHYS</button>
+        <button class="category-btn" data-category="two">BIOL</button>
+        <button class="category-btn" data-category="three">History</button>
+      </div>
+
+      <!-- Dropdown for topics -->
+      <div
+        class="dropdown-container"
+        id="dropdownContainer"
+        style="display: none"
+      >
+        <select id="topicSelect" class="topic-select">
+          <option value="">Select topic...</option>
+        </select>
+      </div>
+
+      <!-- Flashcard area -->
+      <div
+        class="flashcard-container"
+        id="flashcardContainer"
+        style="display: none"
+      >
+        <div class="flashcard" id="flashcard">
+          <div class="card" id="cardContainer">
+            <!-- ADD card class -->
+            <div class="card-front" id="cardFront"></div>
+            <div class="card-back" id="cardBack"></div>
+          </div>
+        </div>
+
+        <div class="controls">
+          <button id="prevBtn" class="nav-btn">← Prev</button>
+          <button id="flipBtn" class="flip-btn">Flip</button>
+          <button id="nextBtn" class="nav-btn">Next →</button>
+        </div>
+        <div id="progress">0 / 0</div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

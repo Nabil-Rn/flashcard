@@ -1,0 +1,16 @@
+[
+  {"question":"What is the condition for intensity maxima (bright fringes) for a diffraction grating at normal incidence?","answer":"d sin(θ) = mλ, where m = 0, 1, 2, ..."},
+  {"question":"In a diffraction grating, what do d and m represent in d sin(θ) = mλ?","answer":"d = spacing between adjacent slits (grooves); m = order number of the maximum."},
+  {"question":"What is the definition of resolving power R for a diffraction grating?","answer":"R = λ/Δλ (≈ λ_avg/(λ2−λ1) for two close wavelengths)."},
+  {"question":"What is the resolving power of a diffraction grating in the m-th order when N lines are illuminated?","answer":"R = Nm."},
+  {"question":"What happens to resolving power if you increase the diffraction order m (with N fixed)?","answer":"Resolving power increases because R = Nm."},
+  {"question":"What happens to resolving power if you illuminate more grating lines N (with m fixed)?","answer":"Resolving power increases because R = Nm."},
+  {"question":"What is Malus’s law for intensity through an analyzer?","answer":"I = I_max cos²(θ), where θ is the angle between the polarization direction and the analyzer axis."},
+  {"question":"After unpolarized light passes through one ideal polarizer, what is its intensity relative to the original?","answer":"It becomes half: I = (1/2) I0."},
+  {"question":"For two ideal polarizers with axes at 90° (crossed), what is the transmitted intensity?","answer":"Zero (I = 0)."},
+  {"question":"State Brewster’s law for the polarizing (Brewster) angle θp.","answer":"tan(θp) = n2/n1."},
+  {"question":"At Brewster’s angle, what is the angle between the reflected and refracted rays?","answer":"90°."},
+  {"question":"What is the condition for destructive interference (dark fringes) in single-slit diffraction?","answer":"a sin(θ) = mλ, where m = 1, 2, 3, ... (minima)."},
+  {"question":"Using Rayleigh criterion, what is the limiting angular resolution for a slit of width a?","answer":"θ_min ≈ λ/a (radians, small-angle)."},
+  {"question":"Using Rayleigh criterion, what is the limiting angular resolution for a circular aperture of diameter D?","answer":"θ_min ≈ 1.22 λ/D (radians, small-angle)."}
+]

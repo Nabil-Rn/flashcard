@@ -1,0 +1,12 @@
+[
+  {"question": "Mirror Equation\n1/p + 1/q = 1/f", "answer": "p: object (pos front)\nq: image (pos real front)\nf: focal (pos concave, neg convex)"},
+  {"question": "Lens Equation\n1/p + 1/q = 1/f", "answer": "p: object (pos left)\nq: image (pos right/real, neg left/virtual)\nf: focal (pos converging, neg diverging)"},
+  {"question": "Magnification\nm = -q/p", "answer": "m neg = inverted\nm pos = upright\n|m|>1 = enlarged\nuse q,p from equations"},
+  {"question": "Snell's Law\nn₁ sin θ₁ = n₂ sin θ₂", "answer": "n₁: incident medium (air=1)\nθ₁: angle from normal\nn₂: refracting medium\nsolve for θ₂"},
+  {"question": "Critical Angle\nsin θ_c = n₂/n₁", "answer": "θ_c when θ₂=90°\nn₁ > n₂ (dense→rare)\nwater-air: n₁=1.33, n₂=1"},
+  {"question": "Young's Bright Fringes\nd sin θ = m λ", "answer": "d: slit separation\nm: order (0=center)\nλ: wavelength\nθ ≈ y/L (small angle)"},
+  {"question": "Single Slit Minima\na sin θ = n λ", "answer": "a: slit width\nn=1 first minimum\ncentral max width = 2λ/a"},
+  {"question": "Grating Maxima\nd sin θ = m λ", "answer": "d=1/(lines per m)\n5000 lines/cm → d=2×10⁻⁶ m\nsolve angular separation"},
+  {"question": "Malus's Law\nI = I₀ cos² θ", "answer": "θ: angle between polarizers\nI₀ = I_max after 1st polarizer\n45° → I = I₀/2"},
+  {"question": "Thin Film Constructive\n2nt = (m+½)λ", "answer": "air-film-air reflection\nphase change on top reflection\nsoap bubble colors"}
+]
